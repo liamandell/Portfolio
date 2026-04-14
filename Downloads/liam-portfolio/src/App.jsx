@@ -78,7 +78,7 @@ export default function LiamPortfolioSite() {
             <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-300">
               I build learning experiences that help people understand systems,
               adopt new tools, and perform with confidence. My background combines
-              instructional design, live facilitation, user support, and teaching.
+              instructional design, software development, live facilitation, user support, and teaching.
             </p>
             <div className="mt-8 flex flex-wrap gap-4">
               <a
@@ -139,7 +139,7 @@ export default function LiamPortfolioSite() {
             <p>
               At Verdtek, I focus on creating training materials and learning
               experiences that support user adoption, process understanding, and
-              day-to-day performance. My teaching background strengthened my
+              system effeciency. My teaching background in AP Computer Science strengthened my
               ability to engage learners, simplify complex ideas, and design
               instruction that meets people where they are.
             </p>
@@ -203,7 +203,7 @@ export default function LiamPortfolioSite() {
           </div>
           <p className="max-w-xl text-sm leading-6 text-slate-400">
             Featured training materials drawn from my instructional design and
-            facilitation work, including a full training plan, a learner-facing
+            facilitation work in my recent project, Online EBT. This includes a full training plan, a learner-facing
             slide deck, and an instructor guide.
           </p>
         </div>
@@ -277,27 +277,45 @@ export default function LiamPortfolioSite() {
 
       <section id="contact" className="mx-auto max-w-6xl px-6 py-20 lg:px-8">
         <div className="rounded-[2rem] border border-white/10 bg-white/5 p-10 text-center shadow-lg">
+
           <p className="text-sm font-semibold uppercase tracking-[0.2em] text-sky-300">
             Contact
           </p>
+
           <h2 className="mt-3 text-3xl font-bold tracking-tight text-white sm:text-4xl">
             Let’s connect
           </h2>
+
           <p className="mx-auto mt-4 max-w-2xl text-base leading-7 text-slate-300">
             I’m interested in opportunities in instructional design, training,
             enablement, and learning experience development.
           </p>
+
+          {/* BUTTONS */}
           <div className="mt-8 flex flex-wrap items-center justify-center gap-4 text-sm font-medium text-slate-200">
-            <span className="rounded-full border border-white/10 bg-slate-900/80 px-4 py-2">
-              your.email@example.com
-            </span>
-            <span className="rounded-full border border-white/10 bg-slate-900/80 px-4 py-2">
-              LinkedIn profile
-            </span>
-            <span className="rounded-full border border-white/10 bg-slate-900/80 px-4 py-2">
+
+            <a
+              href="mailto:liamandell14@gmail.com"
+              className="rounded-full bg-white/10 px-5 py-2.5 hover:bg-white/20 transition"
+            >
+              Email Me
+            </a>
+
+            <a
+              href="https://www.linkedin.com/in/liamandell/"
+              target="_blank"
+              rel="noreferrer"
+              className="rounded-full bg-white/10 px-5 py-2.5 hover:bg-white/20 transition"
+            >
+              LinkedIn
+            </a>
+
+            <span className="rounded-full bg-white/10 px-5 py-2.5">
               Portfolio samples available on request
             </span>
+
           </div>
+
         </div>
       </section>
     </div>
