@@ -77,7 +77,7 @@ export default function LiamPortfolioSite() {
         description:
           'A frontend project built with React, JavaScript, and TypeScript to showcase my work in training, instructional design, and web development, highlighting my foundation in building clean, user-focused applications.',
         tech: ['React', 'JavaScript', 'TypeScript'],
-        link: 'https://github.com/liamandell/Portfolio/tree/gh-pages',
+        link: 'https://github.com/liamandell/Portfolio/tree/main',
       },
     ];
 
