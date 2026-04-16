@@ -5,7 +5,7 @@ Instructional Design Portfolio for Liam Andell
 This portfolio was created to showcase my background in instructional design, training delivery, software development, and technical communication. It brings together my experience as a Training Specialist, AP Computer Science teacher, and developer into one place where employers can view my work, understand my process, and see how I approach building learning experiences and technical projects.
 ## 🌍 Live Portfolio
 
-👉 https://liamandell.github.io/portfolio
+👉 https://liamandell.github.io/portfolio/
 
 ## About This Portfolio
 
