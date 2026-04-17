@@ -32,12 +32,7 @@ export default function LiamPortfolioSite() {
   ];
 
   const projectCards = [
-    {
-      title: 'Online EBT Training Plan',
-      text: 'Comprehensive training plan outlining blended delivery, curriculum design, and user adoption strategy.',
-      file: 'files/Online-EBT-Training-Plan.pdf',
-      type: 'Training Plan',
-    },
+
     {
       title: 'Clinic Services Module 1 Slide Deck',
       text: 'Facilitated training deck covering Online EBT fundamentals, workflows, and system navigation.',
